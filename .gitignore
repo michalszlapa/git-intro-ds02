@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Dane i wyniki
+data/
+models/
+mlruns/
+
+# System
+.DS_Store
+Thumbs.db
